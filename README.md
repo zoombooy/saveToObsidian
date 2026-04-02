@@ -14,7 +14,7 @@
 ## 快速开始
 
 ```powershell
-python .\save_to_obsidian.py init --vault "C:\Users\张博艺\Documents\Obsidian Vault"
+python .\save_to_obsidian.py init --vault "C:\Users\user\Documents\Obsidian Vault"
 python .\save_to_obsidian.py start --title "修复登录问题" --goal "定位并修复登录接口 500"
 python .\save_to_obsidian.py log --content "先检查后端日志和用户鉴权逻辑"
 python .\save_to_obsidian.py finish --result "已修复 token 过期判断，并完成验证"
